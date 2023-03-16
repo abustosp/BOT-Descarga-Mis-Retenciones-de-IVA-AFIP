@@ -1,0 +1,83 @@
+{
+  "name": "Descarga Mis Retenciones",
+  "description": "Mis Retenciones para clientes que administren 1 CUIT o múltiples CUITs",
+  "main": "Descarga Mis Retenciones.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "2.11.4",
+    "UiPath.Mail.Activities": "[1.12.3]",
+    "UiPath.System.Activities": "[21.10.5]",
+    "UiPath.UIAutomation.Activities": "[21.10.7]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Descarga_MC.xaml",
+      "uniqueId": "e0673290-59d3-4dc7-aa1b-c69e557cfa24",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Descarga_MC_Delay_Unica_Lista.xaml",
+      "uniqueId": "552a15a2-41ca-4372-88bd-4725e56cc7e1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Descarga_MC_Sin_Delay.xaml",
+      "uniqueId": "ddec8d77-3917-400b-86fa-245fc56215b8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Descarga_MC_Sin_Delay con control de Contrasenas incorrectas.xaml",
+      "uniqueId": "08e34c9a-d2c5-4ba0-a45b-6a414dda00f8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Descarga Mis Retenciones.xaml",
+      "uniqueId": "770a5a8e-0afb-4021-842c-b8ba74a8acdd",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
