@@ -1,8 +1,7 @@
 Archivos base para la descarga Masiva de Mis Retenciones de IVA (216 y 767) en el Servicio de 'Mis Retenciones' de AFIP mediante un BOT de UiPath
 #
 ## El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
-#
-##
+
  Breve descripción de la instalación del BOT
 
     ֎ Crearse una cuenta en UiPath (https://www.uipath.com/)
