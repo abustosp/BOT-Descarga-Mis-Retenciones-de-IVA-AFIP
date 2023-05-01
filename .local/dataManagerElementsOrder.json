@@ -3,17 +3,24 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
       "Path": "Descarga Mis Retenciones.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
-      "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [
+        "CUITMultiple&Flowchart_1",
+        "Ubicacion&Flowchart_1",
+        "MisServicios&Sequence_68",
+        "Resultado767&Sequence_78",
+        "Existe_Mis_Retenciones&Sequence_78",
+        "Resultado216&Sequence_78"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
   ]

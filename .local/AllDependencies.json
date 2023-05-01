@@ -18475,8 +18475,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {},
-    "C:\\Users\\Agustin Bustos\\AppData\\Local\\UiPath\\NugetFallbackFolder": {}
+    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
@@ -18484,10 +18483,7 @@
       "projectName": "Descarga Mis Retenciones",
       "projectPath": "F:\\Proyecto Uipath\\Descarga Mis Retenciones\\.local",
       "packagesPath": "C:\\Users\\Agustin Bustos\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyecto Uipath\\Descarga Mis Retenciones\\.local",
-      "fallbackFolders": [
-        "C:\\Users\\Agustin Bustos\\AppData\\Local\\UiPath\\NugetFallbackFolder"
-      ]
+      "outputPath": "F:\\Proyecto Uipath\\Descarga Mis Retenciones\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
