@@ -451,7 +451,7 @@
                                                 </sap:WorkflowViewStateService.ViewState>
                                                 <ui:SendHotkey ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SpecialKey="{x:Null}" Activate="True" DisplayName="Cerrar ventana" sap:VirtualizedContainerService.HintSize="334,153" sap2010:WorkflowViewState.IdRef="SendHotkey_2" Key="w" KeyModifiers="Ctrl">
                                                   <ui:SendHotkey.Target>
-                                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="55585991-c5ee-4413-834c-ba391d8e777b" InformativeScreenshot="5cba9da034ff9e6a60f6da66f63cce73" Selector="&lt;html app='firefox.exe' title='JBoss Web/7.0.13.Final - Error report' /&gt;">
+                                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="55585991-c5ee-4413-834c-ba391d8e777b" InformativeScreenshot="5cba9da034ff9e6a60f6da66f63cce73" Selector="&lt;html app='firefox.exe' title='JBoss Web/7.0.13.Final*' /&gt;">
                                                       <ui:Target.TimeoutMS>
                                                         <InArgument x:TypeArguments="x:Int32" />
                                                       </ui:Target.TimeoutMS>
