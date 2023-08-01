@@ -18475,15 +18475,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {}
+    "C:\\Users\\ABP\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Descarga Mis Retenciones",
       "projectName": "Descarga Mis Retenciones",
-      "projectPath": "F:\\Proyecto Uipath\\Descarga Mis Retenciones\\.local",
-      "packagesPath": "C:\\Users\\Agustin Bustos\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyecto Uipath\\Descarga Mis Retenciones\\.local"
+      "projectPath": "F:\\Proyecto Uipath\\Descarga-Mis-Retenciones\\.local",
+      "packagesPath": "C:\\Users\\ABP\\.nuget\\packages\\",
+      "outputPath": "F:\\Proyecto Uipath\\Descarga-Mis-Retenciones\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -18509,7 +18509,7 @@
             "version": "[21.10.7, 21.10.7]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Agustin Bustos\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "B:\\ProgramFiles\\Uipath\\runtime.json"
       }
     },
     "runtimes": {

@@ -1,12 +1,13 @@
 {
   "name": "Descarga Mis Retenciones",
+  "projectId": "297d767e-7464-474e-83be-b4c59f755e30",
   "description": "Mis Retenciones para clientes que administren 1 CUIT o múltiples CUITs",
   "main": "Descarga Mis Retenciones.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "2.11.4",
-    "UiPath.Mail.Activities": "[1.12.3]",
-    "UiPath.System.Activities": "[21.10.5]",
-    "UiPath.UIAutomation.Activities": "[21.10.7]"
+    "UiPath.Mail.Activities": "1.12.3",
+    "UiPath.System.Activities": "21.10.5",
+    "UiPath.UIAutomation.Activities": "21.10.7"
   },
   "webServices": [],
   "entitiesStores": [],
