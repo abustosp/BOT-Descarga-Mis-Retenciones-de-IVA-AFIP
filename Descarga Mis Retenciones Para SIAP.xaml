@@ -812,7 +812,7 @@
                                                           </ui:Target>
                                                         </ui:SelectItem.Target>
                                                       </ui:SelectItem>
-                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a Aplicativo" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_161" KeyModifiers="None" MouseButton="BTN_LEFT">
+                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a aplicativo" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_164" KeyModifiers="None" MouseButton="BTN_LEFT">
                                                         <ui:Click.CursorPosition>
                                                           <ui:CursorPosition Position="Center">
                                                             <ui:CursorPosition.OffsetX>
@@ -824,7 +824,7 @@
                                                           </ui:CursorPosition>
                                                         </ui:Click.CursorPosition>
                                                         <ui:Click.Target>
-                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="13c4d4a4-3ddd-4051-8055-4a0f1369ae4c" InformativeScreenshot="e7bc608d97c0ba85b8f8f8225d618c63" Selector="&lt;webctrl aaname='Exportar Aplicativo' tag='A' /&gt;">
+                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="77adfa93-55f9-40cb-9fb6-c23cda2fc3f3" InformativeScreenshot="73f2e0bb2fa835d31f3bc13d984459e1" Selector="&lt;webctrl tag='INPUT' type='checkbox' /&gt;">
                                                             <ui:Target.TimeoutMS>
                                                               <InArgument x:TypeArguments="x:Int32" />
                                                             </ui:Target.TimeoutMS>
@@ -1082,7 +1082,7 @@
                                                           </ui:Target>
                                                         </ui:SelectItem.Target>
                                                       </ui:SelectItem>
-                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a Aplicativo" sap:VirtualizedContainerService.HintSize="486,107" sap2010:WorkflowViewState.IdRef="Click_162" KeyModifiers="None" MouseButton="BTN_LEFT">
+                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a aplicativo" sap:VirtualizedContainerService.HintSize="486,107" sap2010:WorkflowViewState.IdRef="Click_165" KeyModifiers="None" MouseButton="BTN_LEFT">
                                                         <ui:Click.CursorPosition>
                                                           <ui:CursorPosition Position="Center">
                                                             <ui:CursorPosition.OffsetX>
@@ -1094,7 +1094,7 @@
                                                           </ui:CursorPosition>
                                                         </ui:Click.CursorPosition>
                                                         <ui:Click.Target>
-                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="13c4d4a4-3ddd-4051-8055-4a0f1369ae4c" InformativeScreenshot="e7bc608d97c0ba85b8f8f8225d618c63" Selector="&lt;webctrl aaname='Exportar Aplicativo' tag='A' /&gt;">
+                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="77adfa93-55f9-40cb-9fb6-c23cda2fc3f3" InformativeScreenshot="73f2e0bb2fa835d31f3bc13d984459e1" Selector="&lt;webctrl tag='INPUT' type='checkbox' /&gt;">
                                                             <ui:Target.TimeoutMS>
                                                               <InArgument x:TypeArguments="x:Int32" />
                                                             </ui:Target.TimeoutMS>
@@ -1352,7 +1352,7 @@
                                                           </ui:Target>
                                                         </ui:SelectItem.Target>
                                                       </ui:SelectItem>
-                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a Aplicativo" sap:VirtualizedContainerService.HintSize="486,107" sap2010:WorkflowViewState.IdRef="Click_163" KeyModifiers="None" MouseButton="BTN_LEFT">
+                                                      <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Exportar a aplicativo" sap:VirtualizedContainerService.HintSize="486,107" sap2010:WorkflowViewState.IdRef="Click_166" KeyModifiers="None" MouseButton="BTN_LEFT">
                                                         <ui:Click.CursorPosition>
                                                           <ui:CursorPosition Position="Center">
                                                             <ui:CursorPosition.OffsetX>
@@ -1364,7 +1364,7 @@
                                                           </ui:CursorPosition>
                                                         </ui:Click.CursorPosition>
                                                         <ui:Click.Target>
-                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="13c4d4a4-3ddd-4051-8055-4a0f1369ae4c" InformativeScreenshot="e7bc608d97c0ba85b8f8f8225d618c63" Selector="&lt;webctrl aaname='Exportar Aplicativo' tag='A' /&gt;">
+                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="77adfa93-55f9-40cb-9fb6-c23cda2fc3f3" InformativeScreenshot="73f2e0bb2fa835d31f3bc13d984459e1" Selector="&lt;webctrl tag='INPUT' type='checkbox' /&gt;">
                                                             <ui:Target.TimeoutMS>
                                                               <InArgument x:TypeArguments="x:Int32" />
                                                             </ui:Target.TimeoutMS>
